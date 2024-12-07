@@ -1,8 +1,0 @@
-pandas
-numpy
-scikit-learn
-mlflow
-dvc[all]
-fastapi
-uvicorn[standard]
-loguru
